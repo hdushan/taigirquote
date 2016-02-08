@@ -12,4 +12,4 @@ Feature: View Premium for Quote
       |  23  |  male    |  New South Wales   | High Risk        |  $55.54   |
       |  75  |  male    |  Tasmania          | Very High Risk   |  $229.38  |
       |  100 |  female  |  Queensland        | Low Risk         |  $230.8   |
-      |  18  |  female  |  Westralia | High Risk        |  $51.73   |tern Aus
+      |  18  |  female  |  Western Australia | High Risk        |  $51.73   |
