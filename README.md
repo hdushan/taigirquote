@@ -28,7 +28,7 @@ NOTE: The below three things can be downloaded for free from the internet, but y
 
 
 ####To set up the project on your machine:
-1. `git clone https://github.com/hdushan/quickquote.git`
+1. `git clone git@github.com:hdushan/tagirquote.git`
 2. `bundle install`
 
 ####Rake targets to run tests locally:
