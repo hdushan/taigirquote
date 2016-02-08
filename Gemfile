@@ -1,6 +1,6 @@
 # Gemfile
 source 'http://rubygems.org'
-ruby '2.1.1'
+#ruby '2.1.1'
  
 gem 'tilt', '~> 1.4.1'
 gem "sinatra"
