@@ -9,7 +9,7 @@ deploy:
     secure: CLNfaeTncTEtnoaWLRlrQkPNm7k5+A88kT2/Rku8hfhW6CwWSNE3Wonf70Bex0JT8vAQKNYtWIfFj7AYi2VPNhaFsQEzKTWHkH0L9y4B8we3M9AyZwIDTXk8Zygm0nDR9DL2X9D8CRh2nZc8obUvlE9kfXlIp4733Pd5mFFsQj4zwmcbWYn8gl8LrxjLXB7PRx8W8OtakojHgO/6LjLm8LR+e5gfNSAuCLYwoX1FAhY7oNHiZTNc0mfe1k8GZ5vYEA13+kM7nlgpsCQhhT5f6Jyq8dRXaqDGxVen+1CDBmCnKG442VP7wFyyqXcjcZLu4qWmQUpyxp64GFL4460orAfuEtL9O3UusrTNqDpsxSOYzkj/9z4DVg8e+v8rrmt0VPZDBZ92zK8Hdcbg9vvNaNwVarmrWik4AxHKKeApNjsJeOJe6wvwwEnJ8uwNoIvUA/xY9EQFiLtnqqtnijut8rzULAReRSStl5nTWMzrtH+sRcF13MTr723gRnKcYtYNz+v+6OH6Wu0p/fV8z0JABNyHtfqJWOcZs3T/EpVHPFRsvuZblFL/qDpzlVX1RdQsAZoRwMF3xk2uLX+dzQHC/bI+AstFEctOZKCwzrWgjkIWbP88Rrrwjv5Pakvgky9epeEZWVNOZUd1C9QLT/BTrf8U00mkyj0EanlkOXV9UCs=
   app: tagirquote
   on:
-    repo: hdushan/tagirquote
+    repo: hdushan/taigirquote
 notifications:
   email:
     recipients:
