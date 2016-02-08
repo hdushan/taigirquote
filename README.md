@@ -11,7 +11,7 @@ Originally developed for the Sydney Testers bootcamp by Hans Dushanthakumar
 (just google them to find installers):
 
 1. git
-2. ruby 2.0.x
+2. ruby 2.2.x
 3. bundler gem
 4. chrome
 
